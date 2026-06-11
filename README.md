@@ -102,9 +102,7 @@ Displays uptime in:
 ---
 
 ## Sample Output
-### Screenshot
 
-![Linux System Monitor Output](Output.png)
 
 ```text
 =====================================
